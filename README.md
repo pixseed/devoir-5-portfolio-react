@@ -488,7 +488,7 @@ border-radius: 8px">
 git clone https://github.com/cedrickernec/kernec-cedric-devoir-5-portfolio-react.git
 
 # Accéder au dossier
-cd kernec-cedric-devoir-5-portfolio-react
+cd devoir-5-portfolio-react
 
 # Installer les dépendances
 npm install
@@ -511,7 +511,9 @@ npx vite preview
 
 ## Auteur
 
-[![GitHub - cedrickernec](https://img.shields.io/badge/GitHub-cedrickernec-black?logo=github)](https://github.com/cedrickernec)
+**Cédric Kernec**
+
+[![GitHub - pixseed](https://img.shields.io/badge/GitHub-pixseed-black?logo=github)](https://github.com/pixseed)
 
 ---
 
